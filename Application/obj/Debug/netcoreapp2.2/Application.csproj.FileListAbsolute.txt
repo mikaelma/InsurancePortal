@@ -1,0 +1,14 @@
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Application.deps.json
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.json
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Application.runtimeconfig.dev.json
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Application.dll
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Application.pdb
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Domain.dll
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\bin\Debug\netcoreapp2.2\Domain.pdb
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.csprojAssemblyReference.cache
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.csproj.CoreCompileInputs.cache
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfoInputs.cache
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.AssemblyInfo.cs
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.csproj.CopyComplete
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.dll
+C:\Users\G05\source\repos\InsurancePortal_v2.0\Application\obj\Debug\netcoreapp2.2\Application.pdb
